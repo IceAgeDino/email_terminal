@@ -1,0 +1,15 @@
+{
+    "year": "1994",
+    "serverAddress": "127.12.36.200",
+    "serverName": "Dr. Geoff Prosla's Personal Mail Server",
+    "iconName": "Moon-icon.png",
+    "terminalID": "A47",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "user"
+    },
+    "randomSeed": false,
+    
+    "latestKernel": true
+}
