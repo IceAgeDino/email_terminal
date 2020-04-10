@@ -9,7 +9,7 @@
         "password": "",
         "userName": "GeoffP"
     },
-    "randomSeed": galse,
+    "randomSeed": false,
     
-    "latestKernel": true
+    "latestKernel": false
 }
