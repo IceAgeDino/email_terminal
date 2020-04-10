@@ -1,7 +1,7 @@
 [
     {
         "from": "Traveller",
-        "to": ["GeoffP_admin", "user", ],
+        "to": ["GeoffP_admin", "user"],
         "title": "USAF PROTECTED TERMINAL: DO NOT ACCESS",
         "body": "April 3, 1992: This terminal has been deemed as no longer functioning and cannot connect to the greater USAF Net. Any downloaded emails may still be viewed, but new emails may not be downloaded."
     },
