@@ -5,11 +5,11 @@
     "iconName": "airforce.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "GeoffP",
+        "userId": "user",
         "password": "",
         "userName": "GeoffP"
     },
     "randomSeed": false,
     
-    "latestKernel": false
+    "latestKernel": true
 }
