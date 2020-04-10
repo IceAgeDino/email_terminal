@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "USAF Private Terminal: Dr. Prosla",
     "iconName": "airforce.png",
-    "terminalID": "Y56",
+    "terminalID": "USAF",
     "defaultUser": {
         "userId": "user",
         "password": "",

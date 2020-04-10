@@ -1,15 +1,18 @@
 [
     {
         "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "to": ["GeoffP", "a"],
+        "title": "USAF PROTECTED TERMINAL: DO NOT ACCESS",
+        "body": "April 3, 1992: This terminal has been deemed as no longer functioning and cannot connect to the greater USAF Net. Any downloaded emails may still be viewed, but new emails may not be downloaded."
     },
     {
-        "from": "Software",
-        "to": ["8A73B5", "a"],
-        "title": "undefined",
-        "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
+        "from": "Cpl. Burcho",
+        "to": ["GeoffP", "a"],
+        "title": "affine: April 15, 1991",
+        "body": "D opev jpb hapf fonm jpb'iv gpdaz oviv. D xvm be mov vumvianw lndw xviqvi nm 127.12.36.200. Jpbi nrrpbam dx "ZEipxwn" fdmo enxxfpig "PIRODG", cbm naj vlndw jpb zvm moviv dx dwwvznw. Jpb'iv pawj zvmmdaz modx mivnmlvam cvrnbxv pk mov vuevidlvam xbrrvxxvx. Dk modx vagx be wvnhdaz dakp, D'ww hapf fop gdg dm. D opev monm D fpa'm onqv mp gp najmodaz ginxmdr.
+
+Jpbi kidvag,
+Rew. Spxveo Cbirop"
     },
     {
         "from": "Josephus A. Miller",
