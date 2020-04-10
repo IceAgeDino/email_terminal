@@ -1,15 +1,15 @@
 {
-    "year": "2377",
+    "year": "1994",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
+    "serverName": "USAF Private Terminal: Dr. Prosla",
+    "iconName": "airforce.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "user",
+        "userId": "GeoffP",
         "password": "",
-        "userName": "anonymous"
+        "userName": "GeoffP"
     },
-    "randomSeed": true,
+    "randomSeed": galse,
     
     "latestKernel": true
 }
